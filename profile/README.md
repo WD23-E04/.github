@@ -1,7 +1,7 @@
 # CodeZilla
 
 ## [1 - BDL Lessons]()
-## [2 - UIB Lessons]()
+
 
 ## Course calendar
 
