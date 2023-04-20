@@ -1,12 +1,16 @@
-## Hi there 👋
+# White Mountain
 
-<!--
+## [1 - BDL Lessons]()
+## [2 - UIB Lessons]()
 
-**Here are some ideas to get you started:**
+## Course calendar
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+| Module                         | Start     | End |
+| ------------------------------ | -------------------------- |---|
+| BDL - Basic Digital Literacy   | 19 April |           |
+| UIB - User Interface Basics    |  |      |
+| PB - Programming Basics        |  |  |
+| SPA - Single Page Applications |  |    |
+| BE - Backend                        |  |      |
+| Final Project                  |  |          |
+
