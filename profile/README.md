@@ -1,6 +1,6 @@
 # CodeZilla
 
-## [1 - BDL Lessons]()
+## [1 - BDL Lessons](https://github.com/WD23-E04/livecoding/tree/main/01-BDL)
 
 
 ## Course calendar
