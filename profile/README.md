@@ -2,6 +2,7 @@
 
 ## [1 - BDL Lessons](https://github.com/WD23-E04/livecoding/tree/main/01-BDL)
 
+## [2 - UIB Lessons](https://github.com/WD23-E04/livecoding/tree/main/02-UIB)
 
 ## Course calendar
 
