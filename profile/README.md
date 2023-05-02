@@ -8,8 +8,8 @@
 
 | Module                         | Start     | End |
 | ------------------------------ | -------------------------- |---|
-| BDL - Basic Digital Literacy   | 19 April |           |
-| UIB - User Interface Basics    |  |      |
+| BDL - Basic Digital Literacy   | 19 April |    27  April      |
+| UIB - User Interface Basics    | 02 May |      |
 | PB - Programming Basics        |  |  |
 | SPA - Single Page Applications |  |    |
 | BE - Backend                        |  |      |
