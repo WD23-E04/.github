@@ -4,6 +4,9 @@
 
 ## [2 - UIB Lessons](https://github.com/WD23-E04/livecoding/tree/main/02-UIB)
 
+## [Exercise Solutions](https://github.com/WD23-E04/exercise-solutions)
+
+
 ## Course calendar
 
 | Module                         | Start     | End |
