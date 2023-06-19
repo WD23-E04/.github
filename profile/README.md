@@ -5,7 +5,7 @@
 ## [2 - UIB Lessons](https://github.com/WD23-E04/livecoding/tree/main/02-UIB)
 
 ## [🚀 Solutions For Exercises 🚀](https://github.com/WD23-E04/exercise-solutions)
-
+## [DCI-SCSS-boilerplate](https://github.com/WD23-E04/DCI-SCSS-boilerplate)
 
 ## Course calendar
 
