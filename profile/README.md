@@ -12,8 +12,8 @@
 | Module                         | Start     | End |
 | ------------------------------ | -------------------------- |---|
 | BDL - Basic Digital Literacy   | 19 April |    27  April      |
-| UIB - User Interface Basics    | 02 May |      |
-| PB - Programming Basics        |  |  |
+| UIB - User Interface Basics    | 02 May |   03 July    |
+| PB - Programming Basics        | 04 July |  |
 | SPA - Single Page Applications |  |    |
 | BE - Backend                        |  |      |
 | Final Project                  |  |          |
