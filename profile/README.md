@@ -4,10 +4,11 @@
 
 ## [2 - UIB Lessons](https://github.com/WD23-E04/livecoding/tree/main/02-UIB)
 
-## [🚀 Solutions For Exercises 🚀](https://github.com/WD23-E04/exercise-solutions)
-## [DCI-SCSS-boilerplate](https://github.com/WD23-E04/DCI-SCSS-boilerplate)
+## [3 - PB Lessons](https://github.com/WD23-E04/livecoding/tree/main/03-PB)
 
-## Course calendar
+## [🚀 Solutions For Exercises 🚀](https://github.com/WD23-E04/exercise-solutions)
+
+## Course Calendar
 
 | Module                         | Start     | End |
 | ------------------------------ | -------------------------- |---|
